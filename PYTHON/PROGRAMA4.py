@@ -16,22 +16,7 @@ receta ={
 print(receta["Galletas"]["valor1"])
 
 
-# In[22]:
 
-
-d = {'uno': 1, 'dos': 2, 'tres': 3}
-d['dos']
-
-
-# In[26]:
-
-
-d = {'uno': 1, 'dos': 2, 'tres': 3}
-for e in d:
-   print(e)
-
-
-# In[ ]:
 
 
 
